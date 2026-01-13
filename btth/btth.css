@@ -1,0 +1,62 @@
+/* HEADER */
+.header{
+    background-color: #0a6ebd;
+}
+.header h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.header p{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+}
+/* MAIN */
+.main {
+    padding: 20px;
+}
+
+.main h1 {
+    color: #0a6ebd;
+}
+
+.main p {
+    line-height: 1.6;
+}
+
+.service ul {
+    margin-left: 20px;
+}
+
+.service li {
+    margin-bottom: 5px;
+    
+}
+.service li:hover {
+    color:  #0a6ebd;
+}
+
+
+.note p:last-child {
+    color: red;
+    font-style: italic;
+}
+
+.contact a {
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* FOOTER */
+ footer {
+            background-color: #0a6ebd;
+            color: white;
+            text-align: center;
+            margin-top: 30px;
+            font-size: 30px;
+            font-weight: bold;
+        }
